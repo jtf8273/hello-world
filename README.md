@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-Hi my name is James Fisher. Im a senior CS major at OSU.
+Hi, my name is James Fisher. I'm a senior CS major at OSU.
